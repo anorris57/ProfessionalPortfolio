@@ -1,0 +1,18 @@
+body {
+  background-color: slategray;
+}
+
+.jumbotron {
+  background-image: url('sky.jpg');
+  background-size: cover;
+  color: white;
+}
+
+img {
+  width: 460px;
+  height: 345px;
+}
+
+.bio {
+  color: white;
+}
