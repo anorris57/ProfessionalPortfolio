@@ -16,3 +16,10 @@ img {
 .bio {
   color: white;
 }
+ul.courses {
+  list-style-type: circle;
+}
+
+ul a {
+  color: black;
+}
